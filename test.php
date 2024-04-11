@@ -1,3 +1,3 @@
 <?php 
-echo 'aliya';
+echo 'Welcome';
 ?>
